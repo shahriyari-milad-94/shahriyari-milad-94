@@ -1,3 +1,5 @@
+
+
 # Hi, I'm Milad 👋
 
 ### Front-End Developer | React & JavaScript
@@ -71,10 +73,6 @@ and improving my development workflow with AI-powered tools.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-
-
-
-
 ---
 
 ### 💼 Open to Junior Front-End Developer & Internship Opportunities
