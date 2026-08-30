@@ -73,7 +73,7 @@ and improving my development workflow with AI-powered tools.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miladshahriyari23_94)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/milad-shahriyari-5775b8316)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-shahriyari-5775b8316/)
 ---
 
 ### 💼 Open to Junior Front-End Developer & Internship Opportunities
