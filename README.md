@@ -22,6 +22,7 @@ and improving my development workflow with AI-powered tools.
 - Bootstrap
 - Responsive Web Design
 - Flexbox & CSS Grid
+- **Web Design & CMS:** WordPress, Elementor, Responsive Web Design
 
 ### React
 - React Hooks
